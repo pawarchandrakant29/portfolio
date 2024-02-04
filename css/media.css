@@ -1,0 +1,120 @@
+@media(max-width: 575px) {
+
+   .banner-name h1 {
+      font-weight: 800;
+      color: #fff;
+      font-size: 45px;
+   }
+   .buttons-grp{
+      margin-bottom: 35px;
+   }
+   .sec-2{
+      padding-top: 10px;
+   }
+   .sec-3{
+      padding-top: 20px;
+   }
+   .resume{
+      padding-top: 20px;
+   }
+}
+
+@media(min-width: 576px) {
+
+   .banner-name h1 {
+      font-weight: 800;
+      color: #fff;
+      font-size: 50px;
+   }
+
+}
+@media(min-width: 1000px) {
+
+   .about-me {
+      margin-left: 30px;
+      display: inline-block;
+   }
+
+   .about-me h1 {
+      font-size: 60px;
+      display: inline-block;
+   }
+
+   .banner-name h1 {
+      font-size: 60px;
+   }
+
+   .about {
+      margin-bottom: 10px;
+   }
+
+   .d-set {
+      justify-content: center;
+      display: flex;
+   }
+
+   .about1 {
+      display: inline-block;
+   }
+
+}
+
+@media(min-width: 1200px) {
+   .about-me {
+      margin-left: 80px;
+      display: inline-block;
+   }
+
+   .about-me h1 {
+      font-size: 60px;
+      display: inline-block;
+   }
+
+   .banner-name h1 {
+      font-size: 60px;
+   }
+
+   .about {
+      margin-bottom: 10px;
+   }
+
+   .d-set {
+      justify-content: center;
+      display: flex;
+   }
+
+   .about1 {
+      display: inline-block;
+   }
+}
+
+@media(min-width: 1400px) {
+
+   .about-me {
+      margin-left: 100px;
+      display: inline-block;
+   }
+
+   .about-me h1 {
+      font-size: 60px;
+      display: inline-block;
+   }
+
+   .banner-name h1 {
+      font-size: 60px;
+   }
+
+   .about {
+      margin-bottom: 10px;
+   }
+
+   .d-set {
+      justify-content: center;
+      display: flex;
+   }
+
+   .about1 {
+      display: inline-block;
+   }
+
+}
